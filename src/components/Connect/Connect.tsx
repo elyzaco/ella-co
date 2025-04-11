@@ -12,7 +12,7 @@ interface ConnectData {
  */
 const connectData: ConnectData = {
   email: "elyzaco@bu.edu",
-  linkedin: "www.linkedin.com/in/elyza-mikhaela-co-91276634a",
+  linkedin: "https://www.linkedin.com/in/elyza-mikhaela-co-91276634a/?trk=public-profile-join-page",
 };
 
 /**

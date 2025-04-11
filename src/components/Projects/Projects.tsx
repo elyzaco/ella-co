@@ -10,7 +10,7 @@ const projects: ProjectProps[] = [
   {
     websiteHref: "https://github.com/wderocco8/Grub-Gallery",
     imgSrc: "/images/projects/project1.jpeg",
-    title: "Grub Gallery",
+    title: "Dilly Dallying",
     description:
       "Grub Gallery is a dynamic web application built using the MERN stack, integrating Google OAuth, Spoonacular API, and Google Calendar API. This project allows users to discover and personalize dishes and recipes effortlessly.",
   },
@@ -18,7 +18,7 @@ const projects: ProjectProps[] = [
   {
     websiteHref: "https://github.com/wderocco8/ZipSurf",
     imgSrc: "/images/projects/project2.jpeg",
-    title: "ZipSurf",
+    title: "Up to no good",
     description:
       "ZipSurf is a React based web application designed to enabling users to create, save, delete, and export shortened URLs.",
   },
