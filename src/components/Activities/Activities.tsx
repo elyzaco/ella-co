@@ -32,7 +32,7 @@ const activities: ActivityProps[] = [
   {
     imgSrc: "/images/activities/activity2.jpeg",
     imgAlt: "Rock climbing at FitRec.",
-    title: "Running",
+    title: "Running By The Charles",
     description: (
       <>
         <p>
