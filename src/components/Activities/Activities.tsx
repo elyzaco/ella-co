@@ -10,17 +10,11 @@ const activities: ActivityProps[] = [
   {
     imgSrc: "/images/activities/activity1.jpeg",
     imgAlt: "Coding with David Malin at HackHarvard.",
-    title: "Coding",
+    title: "Cooking",
     description: (
       <>
         <p>
-          Even though we have to code constantly for class, this is something
-          that I genuinely enjoy learning in my free time.
-        </p>
-        <p>
-          Especially for when it comes to <strong>web-development</strong>,
-          where the creative opportunities are literally endless, I find myself
-          spending hours going down rabbit holes of formative exploration.
+          In my free time, I enjoy cooking and baking with my friends and family. Some of the favorite dishes that I have made include beef bulgogi and brown butter banana oatmeal cookies.
         </p>
       </>
     ),
@@ -38,16 +32,11 @@ const activities: ActivityProps[] = [
   {
     imgSrc: "/images/activities/activity2.jpeg",
     imgAlt: "Rock climbing at FitRec.",
-    title: "Rock Climbings",
+    title: "Running",
     description: (
       <>
         <p>
-          I started rock climbing about 2 years ago, and since then, it has been
-          nothing short of amazing (maybe even <em>addicting</em>).
-        </p>
-        <p>
-          I love the challenge of finding the optimal "beta" through a problem,
-          and pushing your body to it's limit.
+          I tried to get into running around November of 2024, but I stopped temporarily as it was getting quite cold in Boston. I loved to run in the morning around the Charles River as I found it to be quite calming and therapeutic to do something productive in the morning and be in touch with nature and away from my phone for awhile. I'll definitely try and get back into it when I get the chance.
         </p>
       </>
     ),
@@ -62,15 +51,13 @@ const activities: ActivityProps[] = [
   {
     imgSrc: "/images/activities/activity3.jpeg",
     imgAlt: "Tabling with PCT (Phi Chi Theta).",
-    title: "BU Phi Chi Theta (PCT)",
+    title: "Traveling",
     description: (
       <>
         <p>
-          I joined PCT (a professional business fraternity) my very first
-          semesert at BU. It was probably one of the most impactful decsions
-          I've made in terms of the <strong>friends</strong> made,{" "}
-          <strong>skills</strong> acquired, and abundance of unique experiences.
-          (Feel free to check out our website WhyPhi 😜)
+          Although I've been blessed to travel around the world ever since I was young,
+          I only appreciated traveling when I grew older. I love to see new places and admire
+          a variety of architecture, food, and culture. Some of my favorite places include Japan, Dubai, and France.
         </p>
       </>
     ),
@@ -83,18 +70,11 @@ const activities: ActivityProps[] = [
   {
     imgSrc: "/images/activities/activity4.jpeg",
     imgAlt: "Cooking with my mom.",
-    title: "Cooking",
+    title: "Pledging PCT",
     description: (
       <>
         <p>
-          Growing up, I always had the opportunity to watch my mom cook, and
-          even help out in the kitchen. Once my parents started working more, I
-          ended up taking more responsibility for cooking meals for the whole
-          family.
-        </p>
-        <p>
-          This slowly grew into a passion, and now is something that I spend a
-          lot of free time doing for fun!
+          Although I have not yet crossed for PCT, I genuinely have been enjoying the work I've been doing for this business frat, and more importantly, the people I've met along the way. The brothers as well my fellow pledges in this frat have honestly been so supportive. Whether it be professional, academic, or social advice, I know I can count on them.
         </p>
       </>
     ),
